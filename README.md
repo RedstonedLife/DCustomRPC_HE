@@ -3,7 +3,7 @@
 
 # DCustomRPC: The Rewrite!
 
-**The icon used for this project is [here](https://www.shareicon.net/logo-website-discord-887435).**
+**האייקון ששומש בפרויקט [כאן](https://www.shareicon.net/logo-website-discord-887435).**
 
 DCustomRPC is a custom rich presence client that you (you right there, yes you) can customize.
 
