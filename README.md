@@ -75,5 +75,8 @@
 5. בוינדואז אקספלורר תעתיקו את הקובץ לשם
 
 תודה לג'ייק שנתן לי רשות לתרגם את הפרויקט
+
+
+
 All credit goes to its responsible owners and creators,
 Thanks to Jake for letting me translate this project!
